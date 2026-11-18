@@ -1,0 +1,27 @@
+
+{
+    "products":[
+        {  
+
+        "name":"Naresh",
+        "Education":2025,
+        "city":"Hyderabad"
+
+        }, 
+  
+        {
+        "name" : "gopi",
+        "Education":"B.tech",
+        "city" : "Karimnagar"  
+       } ,
+
+
+            {
+        "name" :"naveeen",
+        "Education": "mca",
+        "city" : "Ananthapur"
+            }
+            
+    
+    ]
+}
